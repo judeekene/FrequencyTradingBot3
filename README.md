@@ -24,7 +24,6 @@ Symbols and configuration are fully customizable.
 
 ### 🚀 Features
 
-- 🧠 Multi-symbol support (e.g., `EURUSD, GBPUSD`)  
 - ⏱ Daily time frame analysis over ~5 weeks (260 bars)  
 - 📊 Dynamic volume and MA period parameters  
 - 💹 Automated order execution based on signal strength
