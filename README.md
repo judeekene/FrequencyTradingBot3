@@ -3,7 +3,7 @@
 A momentum-based trading algorithm that leverages **high-low ratios** and **moving average crossovers** to identify optimal trade entry points across multiple symbols.
 
 ### 🚦 Strategy Overview
-This bot analyzes price movements by comparing the frequency of daily **higher highs** and **lower lows** over a rolling window, then smooths this using moving averages:
+This bot analyses price movements by comparing the frequency of daily **higher highs** and **lower lows** over a rolling window, then smooths this using moving averages:
 
 - Calculates a **high-low ratio score** over ~5 weeks of market data  
 - Applies **short-term and long-term moving averages** to that ratio  
